@@ -1,6 +1,5 @@
-### Hi there 👋
+[![Git Certified (Linux Foundation)](https://user-images.githubusercontent.com/9358070/236881462-70253c5f-a8e8-4c32-84b1-df59376d9e8b.jpg)](https://www.credly.com/badges/325c3cec-61aa-49e7-a852-eb05a7a4f8ef/public_url)
 
-![Git certified (Linux Foundation)](https://user-images.githubusercontent.com/9358070/236880456-c4548146-0cb5-4b15-85eb-77fc2fb12a5c.jpg)
 <!--
 **sr-murthy/sr-murthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
