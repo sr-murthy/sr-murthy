@@ -1,6 +1,5 @@
-[![pcap-31-03-pcap-certified-associate-in-python-programming](https://github.com/sr-murthy/sr-murthy/assets/9358070/70f1cac9-7ec8-424e-ba1c-1f1761f68053)](https://www.credly.com/badges/159fff41-80ae-4525-b705-ab11357a5773/public_url)
-[![sc102-source-control-management-with-git](https://github.com/sr-murthy/sr-murthy/assets/9358070/bca749f1-a518-473a-9f89-4608a5bc38d5)](https://www.credly.com/badges/325c3cec-61aa-49e7-a852-eb05a7a4f8ef/public_url)
-
+[![pcap-31-03-pcap-certified-associate-in-python-programming](https://user-images.githubusercontent.com/9358070/238193804-70f1cac9-7ec8-424e-ba1c-1f1761f68053.jpg)](https://www.credly.com/badges/159fff41-80ae-4525-b705-ab11357a5773/public_url)
+[![sc102-source-control-management-with-git](https://user-images.githubusercontent.com/9358070/238193807-bca749f1-a518-473a-9f89-4608a5bc38d5.jpg)](https://www.credly.com/badges/325c3cec-61aa-49e7-a852-eb05a7a4f8ef/public_url)
 
 
 <!--
