@@ -1,5 +1,4 @@
-<a href="https://www.credly.com/badges/159fff41-80ae-4525-b705-ab11357a5773/public_url"><img src="https://github.com/sr-murthy/sr-murthy/assets/9358070/101059c2-f6b3-412b-942f-3a0ffcdb553f"></a>
-<a href="https://www.credly.com/badges/325c3cec-61aa-49e7-a852-eb05a7a4f8ef/public_url"><img src="https://github.com/sr-murthy/sr-murthy/assets/9358070/b9a3bf85-9187-421b-bd26-406b70ee515c"></a>
+[![Python Certified Associate Professional (Python Institute)](https://github.com/sr-murthy/sr-murthy/assets/9358070/df128936-f41d-4bf1-9eea-7c4993015b08)](https://www.credly.com/badges/159fff41-80ae-4525-b705-ab11357a5773/public_url)
 
 <!--
 **sr-murthy/sr-murthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
