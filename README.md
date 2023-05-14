@@ -1,5 +1,7 @@
-[![Python Certified Associate Professional (Python Institute)](https://github.com/sr-murthy/sr-murthy/assets/9358070/df128936-f41d-4bf1-9eea-7c4993015b08)](https://www.credly.com/badges/159fff41-80ae-4525-b705-ab11357a5773/public_url)
-[![Source Control Management with Git (The Linux Foundation)](https://github.com/sr-murthy/sr-murthy/assets/9358070/c34311a8-44ab-4998-8b36-561daf148c77)](https://www.credly.com/badges/325c3cec-61aa-49e7-a852-eb05a7a4f8ef/public_url)
+[![pcap-31-03-pcap-certified-associate-in-python-programming](https://github.com/sr-murthy/sr-murthy/assets/9358070/70f1cac9-7ec8-424e-ba1c-1f1761f68053)](https://www.credly.com/badges/159fff41-80ae-4525-b705-ab11357a5773/public_url)
+[![sc102-source-control-management-with-git](https://github.com/sr-murthy/sr-murthy/assets/9358070/bca749f1-a518-473a-9f89-4608a5bc38d5)](https://www.credly.com/badges/325c3cec-61aa-49e7-a852-eb05a7a4f8ef/public_url)
+
+
 
 <!--
 **sr-murthy/sr-murthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
