@@ -1,4 +1,10 @@
-### Hi there 👋
+I am a Python engineer + open source contributor.
+
+Things I like / am interested in:
+- interesting scientific Python projects, especially if open source
+- technical writing and documentation with [reStructuredText](https://docutils.sourceforge.io/rst.html) and [Sphinx](https://www.sphinx-doc.org/en/master/)
+- other interesting languages: C, Prolog, [TLA+](https://en.wikipedia.org/wiki/TLA%2B), Rust
+- in my spare time: cats (all cats, but particularly [Somali cats](https://en.wikipedia.org/wiki/Somali_cat)), nature & wildlife, classical music, books & reading, film, and travel
 
 <!--
 **sr-murthy/sr-murthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
